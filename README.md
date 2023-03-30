@@ -1,4 +1,4 @@
-# Presentacipn Magali Seoane
+# Presentación Magali Seoane
 ### Estudiante de la Tecnicatura en Programación
 ![Foto de mi perro no tengo mias](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yorkshire-jardin-1613561155.jpg?resize=480:*)
 
